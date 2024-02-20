@@ -1,0 +1,24 @@
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\bin\Debug\TestServer.exe
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\bin\Debug\TestServer.pdb
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.AssemblyReference.cache
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.exe
+C:\Users\ysk10\Desktop\　\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.pdb
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\bin\Debug\TestServer.exe
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\bin\Debug\TestServer.pdb
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.AssemblyReference.cache
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.exe
+C:\Users\ysk10\Desktop\유니티\서버 연습\TestServer\TestServer\obj\Debug\TestServer.pdb
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\bin\Debug\TestServer.exe
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\bin\Debug\TestServer.pdb
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.AssemblyReference.cache
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\obj\Debug\TestServer.exe
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\obj\Debug\TestServer.pdb
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ysk10\Desktop\Game Development\서버 연습\TestServer\TestServer\obj\Debug\TestServer.csproj.CopyComplete
